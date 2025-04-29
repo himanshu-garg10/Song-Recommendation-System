@@ -155,7 +155,7 @@ hybrid_recommendations = hr.recommend(user_id)
 
 ## Other Contributors
 
-- [Labishbardiya](https://github.com/labishbardiya)
+- [Labish Bardiya](https://github.com/labishbardiya)
 - [Rakshika Sharma](https://github.com/rakshika1)
 
 ## Conclusion
